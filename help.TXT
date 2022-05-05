@@ -26,4 +26,28 @@ implantation de nouvelle branche
 
 La branche d'Alain
 
+<<<<<<< HEAD
 //testTest pour Michel Testest
+=======
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, eius suscipit deserunt ut tempore necessitatibus, ullam voluptates earum doloribus quia, dicta possimus vero. Obcaecati, et blanditiis distinctio unde similique maxime.
+        Doloremque, ullam, magnam tenetur doloribus voluptatibus repellendus quasi sint eveniet placeat sit perferendis quam nostrum dicta aliquid vitae esse tempora dolore nisi. Mollitia quisquam neque ad totam? Quas, atque aspernatur?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, eius suscipit deserunt ut tempore necessitatibus, ullam voluptates earum doloribus quia, dicta possimus vero. Obcaecati, et blanditiis distinctio unde similique maxime.
+        Doloremque, ullam, magnam tenetur doloribus voluptatibus repellendus quasi sint eveniet placeat sit perferendis quam nostrum dicta aliquid vitae esse tempora dolore nisi. Mollitia quisquam neque ad totam? Quas, atque aspernatur?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, eius suscipit deserunt ut tempore necessitatibus, ullam voluptates earum doloribus quia, dicta possimus vero. Obcaecati, et blanditiis distinctio unde similique maxime.
+        Doloremque, ullam, magnam tenetur doloribus voluptatibus repellendus quasi sint eveniet placeat sit perferendis quam nostrum dicta aliquid vitae esse tempora dolore nisi. Mollitia quisquam neque ad totam? Quas, atque aspernatur?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, eius suscipit deserunt ut tempore necessitatibus, ullam voluptates earum doloribus quia, dicta possimus vero. Obcaecati, et blanditiis distinctio unde similique maxime.
+        Doloremque, ullam, magnam tenetur doloribus voluptatibus repellendus quasi sint eveniet placeat sit perferendis quam nostrum dicta aliquid vitae esse tempora dolore nisi. Mollitia quisquam neque ad totam? Quas, atque aspernatur?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, eius suscipit deserunt ut tempore necessitatibus, ullam voluptates earum doloribus quia, dicta possimus vero. Obcaecati, et blanditiis distinctio unde similique maxime.
+        Doloremque, ullam, magnam tenetur doloribus voluptatibus repellendus quasi sint eveniet placeat sit perferendis quam nostrum dicta aliquid vitae esse tempora dolore nisi. Mollitia quisquam neque ad totam? Quas, atque aspernatur?
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, eius suscipit deserunt ut tempore necessitatibus, ullam voluptates earum doloribus quia, dicta possimus vero. Obcaecati, et blanditiis distinctio unde similique maxime.
+        Doloremque, ullam, magnam tenetur doloribus voluptatibus repellendus quasi sint eveniet placeat sit perferendis quam nostrum dicta aliquid vitae esse tempora dolore nisi. Mollitia quisquam neque ad totam? Quas, atque aspernatur?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, eius suscipit deserunt ut tempore necessitatibus, ullam voluptates earum doloribus quia, dicta possimus vero. Obcaecati, et blanditiis distinctio unde similique maxime.
+        Doloremque, ullam, magnam tenetur doloribus voluptatibus repellendus quasi sint eveniet placeat sit perferendis quam nostrum dicta aliquid vitae esse tempora dolore nisi. Mollitia quisquam neque ad totam? Quas, atque aspernatur?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, eius suscipit deserunt ut tempore necessitatibus, ullam voluptates earum doloribus quia, dicta possimus vero. Obcaecati, et blanditiis distinctio unde similique maxime.
+        Doloremque, ullam, magnam tenetur doloribus voluptatibus repellendus quasi sint eveniet placeat sit perferendis quam nostrum dicta aliquid vitae esse tempora dolore nisi. Mollitia quisquam neque ad totam? Quas, atque aspernatur?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, eius suscipit deserunt ut tempore necessitatibus, ullam voluptates earum doloribus quia, dicta possimus vero. Obcaecati, et blanditiis distinctio unde similique maxime.
+        Doloremque, ullam, magnam tenetur doloribus voluptatibus repellendus quasi sint eveniet placeat sit perferendis quam nostrum dicta aliquid vitae esse tempora dolore nisi. Mollitia quisquam neque ad totam? Quas, atque aspernatur?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, eius suscipit deserunt ut tempore necessitatibus, ullam voluptates earum doloribus quia, dicta possimus vero. Obcaecati, et blanditiis distinctio unde similique maxime.
+        Doloremque, ullam, magnam tenetur doloribus voluptatibus repellendus quasi sint eveniet placeat sit perferendis quam nostrum dicta aliquid vitae esse tempora dolore nisi. Mollitia quisquam neque ad totam? Quas, atque aspernatur?
+>>>>>>> newbranch
