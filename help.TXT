@@ -1,12 +1,9 @@
 et bien....créez votre branche les amis !
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 Une autre branche. test 2
-=======
+
 ma branch c'est la "repairFile"
->>>>>>> 50c724456594146f114b75e700c1f7c77db9e6cc
-=======
-ma branch c'est la "repairFile"
+
 nouvelle branche nouvelle histoire 
->>>>>>> d9bb607987c6fadd2fe819d02a2a55bd46c0cf67
+
+La branche d'Alain
