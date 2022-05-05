@@ -1,3 +1,7 @@
 et bien....créez votre branche les amis !
+<<<<<<< HEAD
 
 Une autre branche. test 2
+=======
+ma branch c'est la "repairFile"
+>>>>>>> 50c724456594146f114b75e700c1f7c77db9e6cc
